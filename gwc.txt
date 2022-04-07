@@ -1,4 +1,4 @@
-function Get-WebCredentials
+function Get-NetCreds
 {
 <#
 .SYNOPSIS
